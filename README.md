@@ -1,1 +1,3 @@
-# .github
+# USTC Dev
+
+有一个QQ群：149839652
