@@ -1,6 +1,6 @@
 # USTC Dev
 
-**👋校友你好~**
+## 👋校友你好~
 
 这是一个供 USTCer 交流的平台  👉[Discussions](https://github.com/USTCdev/.github/discussions)
 
@@ -29,3 +29,5 @@
 本组织刚刚建立不久，很多方面都还不太完善，请多包容~
 
 若想作为本组织的Owner（注: 可有多个），请[通知KermanX](mailto:kermanx@qq.com)设置。
+
+作为本组织的成员，您可以**自由地**创建和修改本组织里的仓库和代码（包括此README）。当然，如果有拿不准的地方，还是建议提起PR，大家一起讨论。
